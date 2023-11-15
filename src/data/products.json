@@ -1,0 +1,114 @@
+[
+    {
+        "id": 1,
+        "name": "Смартфон OPPO Reno 10 8/128GB Silvery Grey",
+        "price": "19392",
+        "image": "https://content2.rozetka.com.ua/goods/images/big/374115172.jpg",
+        "category": "telephones"
+    },
+    {
+        "id": 2,
+        "name": "Смартфон OPPO Reno 10 8/256GB Silvery Grey",
+        "price": 20239,
+        "image": "https://content1.rozetka.com.ua/goods/images/big/374605500.png",
+        "category": "telephones"
+    },
+    {
+        "id": 3,
+        "name": "Мобільний телефон Oppo A78 8/128GB Aqua Green",
+        "price": 13869,
+        "image": "https://content1.rozetka.com.ua/goods/images/big/376006544.jpg",
+        "category": "telephones"
+    },
+    {
+        "id": 4,
+        "name": "Смартфон OPPO Find X5 Pro 12/256GB Ceramic White",
+        "price": 39100,
+        "image": "https://content2.rozetka.com.ua/goods/images/big/377068509.jpg",
+        "category": "telephones"
+    },
+    {
+        "id": 5,
+        "name": "Ноутбук Gigabyte G7 2023 (MF-E2KZ213SD) ",
+        "price": 48999,
+        "image": "https://content1.rozetka.com.ua/goods/images/big/379055301.jpg",
+        "category": "notebooks"
+    },
+    {
+        "id": 6,
+        "name": "Ноутбук Apple MacBook Air 13 M1 8/256GB 2020 ",
+        "price": 43499,
+        "image": "https://content1.rozetka.com.ua/goods/images/big/144249716.jpg",
+        "category": "notebooks"
+    },
+    {
+        "id": 7,
+        "name": "Ноутбук ASUS TUF Gaming F15 (2022) FX507ZC4-HN087",
+        "price": 37999,
+        "image": "https://content1.rozetka.com.ua/goods/images/big/376580914.jpg",
+        "category": "notebooks"
+    },
+    {
+        "id": 8,
+        "name": "Ноутбук Acer Aspire 7 A715-76G-560W",
+        "price": 33999,
+        "image": "https://content2.rozetka.com.ua/goods/images/big/362592851.jpg",
+        "category": "notebooks"
+    },
+    {
+        "id": 9,
+        "name": "Монітор Samsung 32 LS32BG700 (LS32BG702EIXUA) UHD 4K",
+        "price": 24999,
+        "image": "https://content2.rozetka.com.ua/goods/images/big/315861782.jpg",
+        "category": "monitors"
+    },
+    {
+        "id": 10,
+        "name": "Монітор 27 HP Omen Hewlett-Packard Gaming ",
+        "price": 13499,
+        "image": "https://content.rozetka.com.ua/goods/images/big/356215488.jpg",
+        "category": "monitors"
+    },
+    {
+        "id": 11,
+        "name": "Монітор 27 Asus TUF Gaming VG27AQ (90LM0500-B03370)",
+        "price": 11799,
+        "image": "https://content.rozetka.com.ua/goods/images/big/18307112.jpg",
+        "category": "monitors"
+    },
+    {
+        "id": 12,
+        "name": "Монітор 27 Samsung Odyssey AG50 S27AG502NI",
+        "price": 12299,
+        "image": "https://content1.rozetka.com.ua/goods/images/big/248368726.jpg",
+        "category": "monitors"
+    },
+    {
+        "id": 13,
+        "name": "Клавіатура бездротова RZTK Keypad Wireless 2.4G",
+        "price": 699,
+        "image": "https://content.rozetka.com.ua/goods/images/big/361059377.jpg",
+        "category": "keyboards"
+    },
+    {
+        "id": 14,
+        "name": "Бездротова клавіатура Logitech Pebble Keys 2 K380s Tonal White UA",
+        "price": 1400,
+        "image": "https://content2.rozetka.com.ua/goods/images/big/364481335.jpg",
+        "category": "keyboards"
+    },
+    {
+        "id": 15,
+        "name": "Бездротова клавіатура Logitech MX Keys S Graphite UA ",
+        "price": 4999,
+        "image": "https://content2.rozetka.com.ua/goods/images/big/339610641.jpg",
+        "category": "keyboards"
+    },
+    {
+        "id": 16,
+        "name": "Клавіатура бездротова Xiaomi Miiiw Bluetooth/USB Black",
+        "price": 2799,
+        "image": "https://prod-api.mediaexpert.pl/api/images/gallery/thumbnails/images/29/2992664/Klawiatura-XIAOMI-MIIIW-MWBK01-front.jpg",
+        "category": "keyboards"
+    }
+]
